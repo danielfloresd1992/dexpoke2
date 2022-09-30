@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'poke';
-    src: url('../../../public/font/pokemon/Pokemon\ Solid.ttf');
+    src: url('./Pokemon Solid.ttf');
 }
 .view-intro{
     min-height: 100vh;
